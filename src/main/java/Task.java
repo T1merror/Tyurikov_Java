@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task01 {
+public class Task {
 
     public static Scanner scanner = new Scanner(System.in);
 
